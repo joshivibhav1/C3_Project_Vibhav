@@ -64,5 +64,4 @@ public class Restaurant {
     public String getName() {
         return name;
     }
-
 }
